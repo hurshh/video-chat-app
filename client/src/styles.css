@@ -1,0 +1,17 @@
+body {
+    background:
+    linear-gradient(
+      rgba(0, 0, 0, 0.3), 
+      rgba(0, 0, 0, 0.3)
+    ),
+
+    url(https://cdn.dribbble.com/users/1433291/screenshots/15208760/media/ecada4ea8b8e1b93e2398233e1c3dc15.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
