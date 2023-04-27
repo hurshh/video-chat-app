@@ -1,6 +1,7 @@
 # Realtime Chat Application
 
-![Video Chat](https://imgur.com/a/HaMQRCR)
+![Capture](https://user-images.githubusercontent.com/75796695/234951346-eb2e163e-8cee-4258-a805-e3f9693106ee.JPG)
+
 
 ## Introduction
 This is a code repository for the corresponding video tutorial. 
